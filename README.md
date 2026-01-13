@@ -1,8 +1,8 @@
-# Hi, I'm [Your Name] 👋
+# Cindy Pageler
 
 **Data Analyst | MBA | AWS Certified Cloud Practitioner**
 
-Tampa, FL | [your.email@email.com](mailto:your.email@email.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+Tampa, FL | cinpageler@outlook.com | [LinkedIn](https://linkedin.com/in/cindy-pageler)
 
 ---
 
