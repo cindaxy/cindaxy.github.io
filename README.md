@@ -38,14 +38,6 @@ Coming Soon
 
 ---
 
-## Certifications
-
-- AWS Certified Cloud Practitioner
-- CompTIA Data+ CE
-- ITIL Foundation
-
----
-
 ## Let's Connect
 
 - 📧 [your.email@email.com](mailto:your.email@email.com)
