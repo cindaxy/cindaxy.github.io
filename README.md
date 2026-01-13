@@ -36,10 +36,3 @@ Interactive Power BI dashboard tracking budget variance, department performance,
 
 Coming Soon
 
----
-
-## Let's Connect
-
-- 📧 [your.email@email.com](mailto:your.email@email.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💻 [GitHub](https://github.com/cindaxy)
